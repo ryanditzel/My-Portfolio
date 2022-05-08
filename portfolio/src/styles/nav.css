@@ -14,6 +14,13 @@ header {
     text-decoration: none;
 }
 
+.nav-links {
+    flex: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0, 10px, 0, 10px;
+}
 
 .hidden-menu button {
 display: none;

@@ -8,11 +8,11 @@ const Landing = () => {
         <div className="landing-left">
           <div className="landing-welcome">
             <h2>
-              Hello, I'm Ryan Ditzel. <br />I create things for the internet.
+              Hello, I'm Ryan. <br />I create things for the internet.
             </h2>
           </div>
         </div>
-        <div className="landing-right">
+        <div className="projects-landing">
           <div id="project1">Project 1</div>
           <div id="project2">Project 2</div>
           <div id="project3">Project 3</div>
